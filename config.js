@@ -169,7 +169,7 @@ const CONFIG = {
                                         link: 'https://mangareader.to/home/',
                                 },
                                 {
-                                        name: '9',
+                                        name: '9anime',
                                         link: 'https://9anime.to/home/',
                                 },
                                 {
