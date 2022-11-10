@@ -26,14 +26,14 @@ const CONFIG = {
 	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
 
 	// Weather
-	weatherKey: '867fb5f6a14f68789cf4fe9ec0685876', // Write here your API Key
+	weatherKey: 'ad800838aa142385e9d0547c08dcd6c5', // Write here your API Key
 	weatherIcons: 'OneDark', // 'Onedark', 'Nord', 'Dark', 'White'
 	weatherUnit: 'C', // 'F', 'C'
 	language: 'en', // More languages in https://openweathermap.org/current#multi
 
 	trackLocation: true, // If false or an error occurs, the app will use the lat/lon below
-	defaultLatitude: '37.775',
-	defaultLongitude: '-122.419',
+	defaultLatitude: '45.237470',
+	defaultLongitude: '-75.735170',
 
 	// Autochange
 	autoChangeTheme: true,
@@ -58,17 +58,17 @@ const CONFIG = {
 			link: 'https://github.com/',
 		},
 		{
-			id: '2',
-			name: 'Mail',
-			icon: 'mail',
-			link: 'https://mail.protonmail.com/',
-		},
+                        id: '2',
+                        name: 'Mail',
+                        icon: 'mail',
+                        link: 'https://mail.google.com/mail/u/0/#inbox/',
+                },
 		{
-			id: '3',
-			name: 'Todoist',
-			icon: 'trello',
-			link: 'https://todoist.com',
-		},
+                        id: '3',
+                        name: 'TickTick',
+                        icon: 'trello',
+                        link: 'https://ticktick.com/webapp/',
+                },
 		{
 			id: '4',
 			name: 'Calendar',
@@ -76,17 +76,17 @@ const CONFIG = {
 			link: 'https://calendar.google.com/calendar/r',
 		},
 		{
-			id: '5',
-			name: 'Reddit',
-			icon: 'glasses',
-			link: 'https://reddit.com',
-		},
+                        id: '5',
+                        name: 'Google',
+                        icon: 'search',
+                        link: 'https://google.ca/',
+                },
 		{
-			id: '6',
-			name: 'Odysee',
-			icon: 'youtube',
-			link: 'https://odysee.com/',
-		},
+                        id: '6',
+                        name: 'Youtube',
+                        icon: 'youtube',
+                        link: 'https://youtube.com/',
+                },
 	],
 
 	secondButtonsContainer: [
@@ -135,48 +135,48 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'music',
-			id: '1',
-			links: [
-				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
-				},
-				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
-				},
-				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
-				},
-				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
-				},
-			],
-		},
+                        icon: 'music',
+                        id: '1',
+                        links: [
+                                {
+                                        name: 'Youtube Music',
+                                        link: 'https://music.youtube.com',
+                                },
+                                {
+                                        name: 'Lofi',
+                                        link: 'https://www.youtube.com/watch?v=jfKfPfyJRdk&ab_channel=LofiGirl',
+                                },
+                                {
+                                        name: 'Lofi 2',
+                                        link: 'https://www.youtube.com/watch?v=rUxyKA_-grg&ab_channel=LofiGirl',
+                                },
+                                {
+                                        name: 'Pomodoro',
+                                        link: 'https://www.youtube.com/c/%E9%98%BF%E9%B2%8D',
+                                },
+                        ],
+                },
 		{
 			icon: 'coffee',
 			id: '2',
 			links: [
-				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
-				},
-				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
-				},
-				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
-				},
-				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
-				},
-			],
+                                {
+                                        name: 'Daily Dev',
+                                        link: 'https://app.daily.dev/',
+                                },
+                                {
+                                        name: 'Manga',
+                                        link: 'https://mangareader.to/home/',
+                                },
+                                {
+                                        name: '9',
+                                        link: 'https://9anime.to/home/',
+                                },
+                                {
+                                        name: 'Animix',
+                                        link: 'https://animixplay.to/',
+                                },
+                        ],
 		},
 	],
 
