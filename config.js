@@ -13,8 +13,9 @@ const CONFIG = {
 	// General
 	name: 'Ayan',
 	imageBackground: true,
-	openInNewTab: true,
+	openInNewTab: false,
 	twelveHourFormat: true,
+	theme: 'latte-mocha',
 
 	// Greetings
 	greetingMorning: 'Good morning!',
@@ -58,17 +59,17 @@ const CONFIG = {
 			link: 'https://github.com/',
 		},
 		{
-                        id: '2',
-                        name: 'Mail',
-                        icon: 'mail',
-                        link: 'https://mail.google.com/mail/u/0/#inbox/',
-                },
+			id: '2',
+			name: 'Mail',
+			icon: 'mail',
+			link: 'https://mail.google.com/mail/u/0/#inbox/',
+		},
 		{
-                        id: '3',
-                        name: 'TickTick',
-                        icon: 'trello',
-                        link: 'https://ticktick.com/webapp/',
-                },
+			id: '3',
+			name: 'TickTick',
+			icon: 'trello',
+			link: 'https://ticktick.com/webapp/',
+		},
 		{
 			id: '4',
 			name: 'Calendar',
@@ -76,17 +77,17 @@ const CONFIG = {
 			link: 'https://calendar.google.com/calendar/r',
 		},
 		{
-                        id: '5',
-                        name: 'Google',
-                        icon: 'search',
-                        link: 'https://google.ca/',
-                },
+			id: '5',
+			name: 'Google',
+			icon: 'search',
+			link: 'https://google.ca/',
+		},
 		{
-                        id: '6',
-                        name: 'Youtube',
-                        icon: 'youtube',
-                        link: 'https://youtube.com/',
-                },
+			id: '6',
+			name: 'Youtube',
+			icon: 'youtube',
+			link: 'https://youtube.com/',
+		},
 	],
 
 	secondButtonsContainer: [
@@ -135,48 +136,48 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-                        icon: 'music',
-                        id: '1',
-                        links: [
-                                {
-                                        name: 'Youtube Music',
-                                        link: 'https://music.youtube.com',
-                                },
-                                {
-                                        name: 'Lofi',
-                                        link: 'https://www.youtube.com/watch?v=jfKfPfyJRdk&ab_channel=LofiGirl',
-                                },
-                                {
-                                        name: 'Lofi 2',
-                                        link: 'https://www.youtube.com/watch?v=rUxyKA_-grg&ab_channel=LofiGirl',
-                                },
-                                {
-                                        name: 'Pomodoro',
-                                        link: 'https://www.youtube.com/c/%E9%98%BF%E9%B2%8D',
-                                },
-                        ],
-                },
+			icon: 'music',
+			id: '1',
+			links: [
+				{
+					name: 'Youtube Music',
+					link: 'https://music.youtube.com',
+				},
+				{
+					name: 'Lofi',
+					link: 'https://www.youtube.com/watch?v=jfKfPfyJRdk&ab_channel=LofiGirl',
+				},
+				{
+					name: 'Lofi 2',
+					link: 'https://www.youtube.com/watch?v=rUxyKA_-grg&ab_channel=LofiGirl',
+				},
+				{
+					name: 'Pomodoro',
+					link: 'https://www.youtube.com/c/%E9%98%BF%E9%B2%8D',
+				},
+			],
+		},
 		{
 			icon: 'coffee',
 			id: '2',
 			links: [
-                                {
-                                        name: 'Daily Dev',
-                                        link: 'https://app.daily.dev/',
-                                },
-                                {
-                                        name: 'Manga',
-                                        link: 'https://mangareader.to/home/',
-                                },
-                                {
-                                        name: '9anime',
-                                        link: 'https://9anime.to/home/',
-                                },
-                                {
-                                        name: 'Animix',
-                                        link: 'https://animixplay.to/',
-                                },
-                        ],
+				{
+					name: 'Daily Dev',
+					link: 'https://app.daily.dev/',
+				},
+				{
+					name: 'Manga',
+					link: 'https://mangareader.to/home/',
+				},
+				{
+					name: '9anime',
+					link: 'https://9anime.to/home/',
+				},
+				{
+					name: 'Animix',
+					link: 'https://animixplay.to/',
+				},
+			],
 		},
 	],
 
