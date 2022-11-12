@@ -175,7 +175,7 @@ const CONFIG = {
 				},
 				{
 					name: 'Animix',
-					link: 'https://animixplay.to/',
+					link: 'https://www.netflix.com/browse',
 				},
 			],
 		},
