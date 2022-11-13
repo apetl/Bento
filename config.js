@@ -174,7 +174,7 @@ const CONFIG = {
 					link: 'https://9anime.to/home/',
 				},
 				{
-					name: 'Animix',
+					name: 'Netflix',
 					link: 'https://www.netflix.com/browse',
 				},
 			],
