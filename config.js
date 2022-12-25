@@ -140,8 +140,8 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Youtube Music',
-					link: 'https://music.youtube.com',
+					name: 'Spotify',
+					link: 'https://open.spotify.com/',
 				},
 				{
 					name: 'Lofi',
