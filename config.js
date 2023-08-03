@@ -171,7 +171,7 @@ const CONFIG = {
 				},
 				{
 					name: '9anime',
-					link: 'https://9anime.to/home/',
+					link: 'https://aniwave.to/home/',
 				},
 				{
 					name: 'Netflix',
