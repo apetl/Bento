@@ -12,7 +12,7 @@ const CONFIG = {
 
 	// General
 	name: 'Ayan',
-	imageBackground: false,
+	imageBackground: true,
 	openInNewTab: false,
 	twelveHourFormat: true,
 	theme: 'latte-mocha',
