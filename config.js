@@ -62,7 +62,7 @@ const CONFIG = {
 			id: '2',
 			name: 'Mail',
 			icon: 'mail',
-			link: 'https://mail.google.com/mail/u/0/#inbox/',
+			link: 'https://mail.proton.me',
 		},
 		{
 			id: '3',
@@ -74,13 +74,13 @@ const CONFIG = {
 			id: '4',
 			name: 'Calendar',
 			icon: 'calendar',
-			link: 'https://calendar.google.com/calendar/r',
+			link: 'https://calendar.proton.me',
 		},
 		{
 			id: '5',
-			name: 'Google',
+			name: 'Search',
 			icon: 'search',
-			link: 'https://google.ca/',
+			link: 'https://startpage.com/',
 		},
 		{
 			id: '6',
@@ -170,7 +170,7 @@ const CONFIG = {
 					link: 'https://mangareader.to/home/',
 				},
 				{
-					name: '9anime',
+					name: 'Anime',
 					link: 'https://aniwave.to/home/',
 				},
 				{
