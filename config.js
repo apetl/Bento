@@ -144,11 +144,11 @@ const CONFIG = {
 					link: 'https://open.spotify.com/',
 				},
 				{
-					name: 'Lofi',
-					link: 'https://www.youtube.com/watch?v=jfKfPfyJRdk&ab_channel=LofiGirl',
+					name: 'Odysee',
+					link: 'https://odysee.com/',
 				},
 				{
-					name: 'Lofi 2',
+					name: 'Lofi',
 					link: 'https://www.youtube.com/watch?v=rUxyKA_-grg&ab_channel=LofiGirl',
 				},
 				{
