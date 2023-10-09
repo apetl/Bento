@@ -56,7 +56,7 @@ const CONFIG = {
 			id: '1',
 			name: 'Github',
 			icon: 'github',
-			link: 'https://github.com/',
+			link: 'https://github.com',
 		},
 		{
 			id: '2',
@@ -66,9 +66,9 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'TickTick',
-			icon: 'trello',
-			link: 'https://ticktick.com/webapp/',
+			name: 'Habitica',
+			icon: 'list-todo',
+			link: 'https://habitica.com',
 		},
 		{
 			id: '4',
@@ -78,9 +78,9 @@ const CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'Search',
-			icon: 'search',
-			link: 'https://startpage.com/',
+			name: 'Drive',
+			icon: 'folder-key',
+			link: 'https://drive.proton.me',
 		},
 		{
 			id: '6',
