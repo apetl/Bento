@@ -18,10 +18,14 @@ const CONFIG = {
 	theme: 'latte-mocha',
 
 	// Greetings
-	greetingMorning: 'Good morning!',
-	greetingAfternoon: 'Good afternoon,',
-	greetingEvening: 'Good evening,',
-	greetingNight: 'Go to Sleep!',
+	// greetingMorning: 'Good morning!',
+	// greetingAfternoon: 'Good afternoon,',
+	// greetingEvening: 'Good evening,',
+	// greetingNight: 'Go to Sleep!',
+	greetingMorning: 'Observe, Adapt, Overcome',
+	greetingAfternoon: 'Observe, Adapt, Overcome',
+	greetingEvening: 'Observe, Adapt, Overcome',
+	greetingNight: 'Observe, Adapt, Overcome',
 
 	// Layout
 	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
