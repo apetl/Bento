@@ -85,7 +85,7 @@ const CONFIG = {
 			id: '5',
 			name: 'Drive',
 			icon: 'folder-key',
-			link: 'https://drive.proton.me',
+			link: 'https://drive.filen.io/',
 		},
 		{
 			id: '6',
